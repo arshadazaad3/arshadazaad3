@@ -23,5 +23,5 @@
 </p>
 
 <br/>
-   <a href="https://github.com/arshdazaad3"><img alt="Arshad Azaad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshadazaad3&custom_title=arshadazaad3's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/arshadazaad3"><img alt="Arshad Azaad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshadazaad3&custom_title=arshadazaad3's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
