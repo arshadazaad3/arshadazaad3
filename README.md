@@ -23,5 +23,7 @@
 </p>
 
 <br/>
-   <a href="https://github.com/arshadazaad3"><img alt="Arshad Azaad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshadazaad3&custom_title=arshadazaad3's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/arshadazaad3"><img alt="Arshad Azaad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshadazaad3&custom_title=arshadazaad3's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arshadazaad3&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
