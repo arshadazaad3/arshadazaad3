@@ -23,6 +23,3 @@
 </p>
 
 <br/>
-<!--    <a href="https://github.com/arshadazaad3"><img alt="Arshad Azaad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arshadazaad3&custom_title=arshadazaad3's%20Contribution%20Graph&theme=react-dark" /></a> -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>
