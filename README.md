@@ -24,6 +24,6 @@
 <br/>
 
 <a href="https://github.com/arshadazaad3" target="_blank"> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshadazaad3&bg_color=000000&color=33ddff&line=08e0fd&point=fff0b8&area=true&hide_border=true"
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshadazaad3&bg_color=000000&color=ffffff&line=08e0fd&point=fff0b8&area=true&hide_border=true"
       alt="Activity Graph"/> 
 </a>
